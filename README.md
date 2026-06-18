@@ -132,7 +132,46 @@ cs599-CareerPilot/
 ├── .env
 └── LICENSE
 ```
+## 测试示例
+### 示例简历技能（可自行准备pdf/docx文件）
+```text
+Python、FastAPI、MySQL、Git、Linux、Docker
 
+项目经历：
+- 基于 FastAPI 开发在线管理系统
+- 使用 Docker 完成项目部署
+- 使用 LangChain 开发智能问答系统
+```
+
+### 示例岗位 JD
+```text
+岗位名称：Python 后端开发工程师
+
+岗位职责：
+
+1. 负责公司核心业务系统的后端开发与维护；
+2. 参与系统架构设计与性能优化；
+3. 负责 RESTful API 的设计与实现；
+4. 与前端、产品团队协作完成需求开发；
+5. 编写技术文档并参与代码评审。
+
+任职要求：
+
+1. 熟悉 Python 开发，具备良好的编码习惯；
+2. 熟悉 FastAPI、Django 或 Flask 等后端框架；
+3. 熟悉 MySQL、PostgreSQL 等关系型数据库；
+4. 了解 Docker 容器化部署；
+5. 熟悉 Git 版本控制工具；
+6. 具备 Linux 环境开发经验；
+7. 了解微服务架构者优先；
+8. 了解 LangChain、LangGraph、LLM 应用开发者优先。
+
+加分项：
+
+- 有 AI Agent 项目经验；
+- 有云服务器部署经验；
+- 有开源项目贡献经历。
+```
 ---
 
 ## 环境搭建
