@@ -112,15 +112,15 @@ cs599-CareerPilot/
 │   └── CS599_大作业报告.pdf
 │
 ├── src/
-│   ├── agents/
-│   ├── graph/
-│   ├── memory/
-│   ├── tools/
-│   ├── api/
-│   └── frontend/
-│   └── evaluation/
-│   └── llm/
-│   └── utils/
+│   ├── agents/  存放各业务 Agent 的核心逻辑，实现简历解析、岗位分析、能力差距评估、学习规划和模拟面试等智能体功能。
+│   ├── graph/  基于 LangGraph 构建 Agent 工作流，负责多步骤任务的状态管理与执行流程编排。
+│   ├── memory/  实现用户长期记忆与数据持久化功能，负责用户信息、学习记录和面试历史的存储与读取。
+│   ├── tools/  封装 Agent 调用的工具模块，包括简历文件解析、技能提取等外部能力。
+│   ├── api/  基于 FastAPI 构建后端接口服务，为前端提供统一的 REST API 访问入口。
+│   └── frontend/  基于 Streamlit 构建用户交互界面，负责简历上传、结果展示和用户操作流程管理。
+│   └── evaluation/  实现系统测试与评估功能，包括功能验证、Benchmark 测试和 Agent 效果评估。
+│   └── llm/  封装大模型调用逻辑，统一管理 DeepSeek API 配置、Prompt 调用和结果解析。
+│   └── utils/  存放项目通用工具函数和辅助模块，为各业务组件提供公共支持功能。
 │
 ├── tests/
 │
