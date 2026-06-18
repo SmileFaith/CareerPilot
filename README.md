@@ -124,11 +124,12 @@ cs599-CareerPilot/
 │
 ├── tests/
 │
+├── ai-development-guide.md
 ├── Dockerfile
 ├── docker-compose.yml
 ├── README.md
 ├── requirements.txt
-├── .env.example
+├── .env
 └── LICENSE
 ```
 
@@ -139,26 +140,26 @@ cs599-CareerPilot/
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourname/cs599-project.git
-cd cs599-project
+git clone https://github.com/SmileFaith/cs599-CareerPilot.git
+cd cs599-CareerPilot
 ```
 
 ### 2. Create Virtual Environment
 
 ```bash
-python -m venv .venv
+python -m venv .your_venv
 ```
 
 Windows:
 
 ```bash
-.venv\Scripts\activate
+.your_venv\Scripts\activate
 ```
 
 Linux/macOS:
 
 ```bash
-source .venv/bin/activate
+source .your_venv/bin/activate
 ```
 
 ### 3. Install Dependencies
@@ -168,14 +169,6 @@ pip install -r requirements.txt
 ```
 
 ### 4. Configure Environment Variables
-
-Create:
-
-```text
-.env
-```
-
-Example:
 
 ```env
 DEEPSEEK_API_KEY=your_api_key
@@ -229,7 +222,7 @@ docs/evaluation.md
 ## Project Status
 
 * [x] Proposal
-* [ ] MVP
+* [x] MVP
 * [ ] Final
 
 ---
@@ -241,6 +234,7 @@ docs/evaluation.md
 * RAG Knowledge Base
 * Multi-Model Support
 * Personalized Career Planning
+* More Agents
 
 ---
 
