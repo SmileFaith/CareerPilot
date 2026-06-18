@@ -170,6 +170,7 @@ pip install -r requirements.txt
 
 ### 4. Configure Environment Variables
 
+.env
 ```env
 DEEPSEEK_API_KEY=your_api_key
 ```
