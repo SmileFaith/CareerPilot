@@ -48,7 +48,6 @@ CareerPilot 是一个基于 Multi-Agent 架构的 AI 求职成长助手。
 ### Memory
 
 * SQLite
-* FAISS（可选）
 
 ### Deployment
 
@@ -104,7 +103,7 @@ Memory Layer
 ## 项目目录结构
 
 ```text
-cs599-project/
+cs599-CareerPilot/
 
 ├── docs/
 │   ├── requirements.md
@@ -119,6 +118,9 @@ cs599-project/
 │   ├── tools/
 │   ├── api/
 │   └── frontend/
+│   └── evaluation/
+│   └── llm/
+│   └── utils/
 │
 ├── tests/
 │
