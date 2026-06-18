@@ -215,6 +215,7 @@ Example:
 
 ```env
 DEEPSEEK_API_KEY=your_api_key
+USER_AGENT=CareerPilot/1.0
 ```
 
 ⚠ Do not hardcode API keys.
