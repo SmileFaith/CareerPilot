@@ -145,32 +145,25 @@ Python、FastAPI、MySQL、Git、Linux、Docker
 
 ### 示例岗位 JD
 ```text
-岗位名称：Python 后端开发工程师
+岗位名称：Python后端开发工程师
 
 岗位职责：
-
-1. 负责公司核心业务系统的后端开发与维护；
-2. 参与系统架构设计与性能优化；
-3. 负责 RESTful API 的设计与实现；
-4. 与前端、产品团队协作完成需求开发；
-5. 编写技术文档并参与代码评审。
+1. 负责后端系统开发与维护
+2. 设计RESTful API
+3. 与前端协作完成项目开发
 
 任职要求：
-
-1. 熟悉 Python 开发，具备良好的编码习惯；
-2. 熟悉 FastAPI、Django 或 Flask 等后端框架；
-3. 熟悉 MySQL、PostgreSQL 等关系型数据库；
-4. 了解 Docker 容器化部署；
-5. 熟悉 Git 版本控制工具；
-6. 具备 Linux 环境开发经验；
-7. 了解微服务架构者优先；
-8. 了解 LangChain、LangGraph、LLM 应用开发者优先。
+1. 熟练掌握Python
+2. 熟悉FastAPI或Django
+3. 熟悉MySQL
+4. 熟悉Docker
+5. 熟悉Git
+6. 本科以上学历
+7. 1-3年开发经验
 
 加分项：
-
-- 有 AI Agent 项目经验；
-- 有云服务器部署经验；
-- 有开源项目贡献经历。
+1. 了解LangChain
+2. 了解LLM应用开发
 ```
 ---
 
