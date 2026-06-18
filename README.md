@@ -129,7 +129,7 @@ cs599-CareerPilot/
 ├── docker-compose.yml
 ├── README.md
 ├── requirements.txt
-├── .env
+├── .env.example
 └── LICENSE
 ```
 
